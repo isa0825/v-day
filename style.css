@@ -6,7 +6,7 @@
 
 body {
     background-color: #FFE4E8;
-    font-family: 'Gaegu', sans-serif;
+    font-family: 'Nunito', sans-serif;
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -101,7 +101,7 @@ h1 {
     border-radius: 16px;
     font-size: 1.6rem;
     font-weight: 900;
-    font-family: 'Gaegu', sans-serif;
+    font-family: 'Nunito', sans-serif;
     padding: 18px 45px;
     cursor: pointer;
     transition: transform 0.15s, box-shadow 0.15s;
@@ -125,7 +125,7 @@ h1 {
     border-radius: 12px;
     font-size: 1rem;
     font-weight: 700;
-    font-family: 'Gaegu', sans-serif;
+    font-family: 'Nunito', sans-serif;
     padding: 12px 28px;
     cursor: pointer;
     transition: background 0.2s, left 0.25s ease, top 0.25s ease;
